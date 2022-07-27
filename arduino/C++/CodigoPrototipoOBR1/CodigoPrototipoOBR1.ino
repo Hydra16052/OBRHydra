@@ -1,4 +1,4 @@
-//Primeira Atualização de Portela
+// Esse é a primeira atualização de Portela
 
 //#include <SoftwareSerial.h>
 //SoftwareSerial BTserial(10, 11); // RX | TX
